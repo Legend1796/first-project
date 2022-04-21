@@ -5,4 +5,5 @@
 .content {
   width: 500px;
   background-color: aquamarine;
+  display: flex;
 }
